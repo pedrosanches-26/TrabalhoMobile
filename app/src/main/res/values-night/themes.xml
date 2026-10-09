@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.PratoDaSemana" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_200</item>
+        <item name="colorOnPrimary">@color/green_900</item>
+        <item name="colorPrimaryContainer">@color/green_700</item>
+        <item name="colorSecondary">#FFB870</item>
+        <item name="colorOnSecondary">#492900</item>
+        <item name="colorSecondaryContainer">#693800</item>
+        <item name="colorOnSecondaryContainer">@color/orange_100</item>
+    </style>
+</resources>

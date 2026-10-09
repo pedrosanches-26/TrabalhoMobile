@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Prato da Semana</string>
+    <string name="header_title">Prato da Semana</string>
+    <string name="header_subtitle">Planeje as refeições da sua semana</string>
+    <string name="logo_description">Logotipo do aplicativo Prato da Semana</string>
+    <string name="summary_format">%1$d receitas • %2$d no plano</string>
+    <string name="filter_only_planned">Somente planejadas</string>
+    <string name="empty_planned">Você ainda não adicionou nenhuma receita ao plano.</string>
+    <string name="badge_planned">No plano</string>
+    <string name="recipe_image_description">Foto ilustrativa do prato %1$s</string>
+    <string name="meta_format">%1$s • %2$s • %3$s</string>
+    <string name="area_unknown">Origem não informada</string>
+    <string name="prep_time_format">%1$d min</string>
+    <string name="prep_time_unknown">Tempo não informado</string>
+    <string name="measure_unknown">a gosto</string>
+    <string name="section_ingredients">Ingredientes</string>
+    <string name="section_instructions">Modo de preparo</string>
+    <string name="ingredients_progress">%1$d de %2$d ingredientes em casa</string>
+    <string name="ingredients_hint">Marque o que você já tem em casa</string>
+    <string name="action_add_to_plan">Adicionar ao plano da semana</string>
+    <string name="action_remove_from_plan">Remover do plano</string>
+    <string name="action_back">Voltar à lista</string>
+    <string name="status_planned">✔ Esta receita está no seu plano</string>
+    <string name="status_not_planned">Esta receita ainda não está no plano</string>
+</resources>

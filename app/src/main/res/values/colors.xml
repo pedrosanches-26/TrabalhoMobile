@@ -1,0 +1,9 @@
+<resources>
+    <color name="green_700">#1B5E37</color>
+    <color name="green_100">#C4EBD0</color>
+    <color name="green_200">#9ED7AF</color>
+    <color name="green_900">#00391E</color>
+    <color name="orange_800">#8A4B00</color>
+    <color name="orange_100">#FFDCBE</color>
+    <color name="white">#FFFFFF</color>
+</resources>
